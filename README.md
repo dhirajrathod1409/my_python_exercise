@@ -1,2 +1,2 @@
 # my_python_exercise
- These are the practice questions on python i had solved while i was persuing my data science cource.
+These are the practice questions I solved during my data science cource for improving python programming.
